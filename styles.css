@@ -1,0 +1,38 @@
+body{
+	background-color: #66CDAA;
+	border: dotted; color: #C71585;}
+h1{font-style: italic;
+	font: 70px 'Comfortaa';
+	color: #7B68EE;
+	text-align: center}
+h2{font: 50px 'Comfortaa';
+	text-shadow: 2px 2px #FDF5E6;
+	font-weight: bolder;
+	font-style: italic;
+	color: #C71585;
+	text-align: center;}
+*{box-sizing: border-box;}
+
+#Exhibits {color: #cd5c5c; 
+	padding-bottom: 3px; padding-top: 5px;
+	margin: 10px 25px;}
+	{border: 10px 20px;} {border-color: red;}
+	{text-align:center;} {font: center;} {font: 50px;}
+li{width: 30%;
+	margin: 10px;
+border: 2px;
+float:left;}
+{text-align: center;}
+{border: red; border-width: 20px 20px;}
+
+	.animal{color: purple;}
+	.fish{color:green;}
+	.water{color:blue;} 
+	.Birds{color: pink;}
+
+#contact {color: #cd5c5c;} {font: 50px;} {float: bottom;} 
+{margin: 80px 45px;
+width: 80%;} {font: 30px}
+
+#enjoy {font: 30px 'Comfortaa'} {text-align: bottom;} {border-color: red;}
+{/*float: right;*/}
